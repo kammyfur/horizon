@@ -1,0 +1,33 @@
+{
+
+    "token": "token here",
+	
+    "testMode": false,
+	"keepLogs": true,
+    "saveCrashes": true,
+    "gameActivity": "Forza Horizon 4",
+	"dynamicGameActivity": true,
+    
+	"commandsPrefix": "(",
+    "commandsSuffix": ")",
+
+    "logPath": "./global.log",
+    "crashRpPath": "./crashes.log",
+    
+    "enableVoiceChannel": true,
+    "enableEmbedExplain": true,
+    "enableChangeGameActivity": true,
+    "enableRawMessages": true,
+    "enableActionCancel": true,
+    "enableRestartCmd": true,
+    "enableTestMode": true,
+    "enableDebugInfo": true,
+    "enableVoiceDebugInfo": true,
+    "enableHorigame": true,
+
+    "pionnerRoleID": "",
+    "shardQty": 1,
+
+    "masterAdminId": "294910706250285056",
+    "slaveAdminId": "392012706279981066"
+}

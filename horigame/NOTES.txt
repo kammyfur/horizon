@@ -1,0 +1,14 @@
+1. Installer 'node-json-db' -> https://www.npmjs.com/package/node-json-db
+   -> Ou utiliser le système interne de NodeJS
+2. Gérer la base de données selon l'exemple dans /horigame/db.json
+3. Prévoir un scénario, et des niveaux, et gagner des bonus et postant des messages
+
+FINAL :
+  - Ajouter la commande 'hg give'
+  - Ajouter la commande 'hg redeem' pour récupérer les packs
+
+COMMANDES :
+'hg te' traduit n'importe quelle langue en anglais
+'hg tf' traduit n'importe quelle langue en français
+'hg tj' traduit n'importe quelle langue en japonais
+'hg tl' traduit n'importe quelle langue en latin
